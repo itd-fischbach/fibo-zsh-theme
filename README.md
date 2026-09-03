@@ -5,7 +5,8 @@ A clean, minimalist two-line Oh My Zsh theme focused on readability and terminal
 A minimalist, two-line theme for [Oh My Zsh](https://ohmyz.sh/). 
 Focuses on readability and providing maximum space for command input.
 
-> <img width="315" height="113" alt="image" src="https://github.com/user-attachments/assets/85ded7c0-ceb6-428e-886f-787eb298e1d2" />
+> <img width="324" height="173" alt="image" src="https://github.com/user-attachments/assets/e9440972-140f-4b39-974b-2c9c15817c47" />
+
 
 
 ## Features
